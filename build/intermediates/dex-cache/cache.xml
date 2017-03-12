@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_0ffd8a33ca85bfb3e334268a44fa6d24ba0b4fea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_d34cf597ec0689528b4b89c9250763e1efb607a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_febf482caace5a481609555f74850a0a52df0696\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_003a7b1c3e4e0daecb28314bc8c6f906d1a6883f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_0e2ff31b456245f2d636076f52e208bb37c17fda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.koushikdutta.ion\ion\2.1.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.koushikdutta.ion-ion-2.1.9_aaaf6e8316935742277d1937bf1fe56a84a6581f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_f3a3682fd302a520e75f9f11eecf366f8a4f4238\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_7759164d12a4785f7ac3eefdd5d36c61ad41e1df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a1ab846a161a7bff3037b0a02fc284875a034268\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_13ca474f8671fe4cc26c6c39a1a995a8c22c6e98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_26e1bfd15e791462f88bba60c79ed7d33df620e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_7a64d452dc6ed026959d7183636a42b6e28d42f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_cb78ef26b830db086c80f3d6241db16043610c48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_e6b21fa32831eaee5693547f9247fbbab35501d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_6a0041bf524a6cecb327ac67694e8dd2ed5dc0de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_2aa81d8ed29b43dd0eb621c259bd912b0d063beb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_972c83ff4ac7151234653bfac61cf3fd81bdec4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_d6364def26de727b58534bfb5b02447aa5270ae2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_c06b5f1498264d6d26efb8251cecb5b4676d072a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.0\a7537446a030da8eb0da4c71424d16c2589f6c4a\glide-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.6.0_1247d704d0f25560b33563a63adf6411aad8ad6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_6cbcb9a5b6c374aee2c2c86481871dbd616c00fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_09786a2ffb99f2679ab8670ecc696bd82dd59d82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_2718b8a03372dca074185c9de1acaccda1ce7d7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_3df9a6c01c4640a021e9e747a84e464b1dd88dac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee545aadc2d274b0b1a0c0a6c3c47cc1e030da2d">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0b705eb9277bd7a0e9668f16e3b4c044ff31b8fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_4f0b7ea6499b2b5c54e91ac698b3ddb2d8562c45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_65e1b8a4d2018f8e9fc9a0dd21b87274ad2e5457\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_c0119e87183eb01d0c537fa2c812ccf4c7b30936\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_c2aa5812c6f85226d7f095f5c7283e247cf54623\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_fe31a4fd89ac6f6d12c9c0ed4af2d4150e271fcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_4122e7dffe804b7c4ddea1df3eda937cc8370818\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_924d33fb093d0f011c98fb69ae79cb5b5c969d29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_5f14ffbe93e2460b94d51af9d44d939dd86946d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_aedd8d66f0ffd392ca9a22bcede41a86689d5f24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_abcf1c97b9e0f48bb38b0d777f08a82de0972137\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_862284b444d1c48760e78e14cba2d8ef99eb56ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3_4431db28612b5be45f9212bc321cccd9dc229ae8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_e5950caa295c3dbf068bb5702fd23dff337ac27c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_e92981e413effa5df5a535207050e643e16f1a50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_714a730b7a4a76d2cd44fa210e07ae8ac3e273e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_099a60afa637f698240fe0309124459b10f094d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_f76a1edbd09657610c9957ef06d3e9f23a434b5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_78d697195026aece82b7abcc2436eaceffff179d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_f4ee579900537907545f2c79013cd9bb536bcdbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_712b58dd60036b483f8ed78ca3aa464ca6d31c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_874474a8d42bc3b178504b225dd2398967d41fe1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2cdf8d43176fde81d26dd3f6c311a1cb0c157855\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_b3129724bc32d3164af8307ecb54f97b7afbaf05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_c7667730bb642afa7518e8652f122d176f1565af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_c96e4b740621ccc09ec0fcbd10f8a742a4bb5067\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_950c2f88a2dda84f810f7c794f06eb1c65fb1be2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_822184be16ee5a99b781f8524d7417ba09aa5ca8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_4296241a33f1b06b49f6faa03f0a3e99d8d982aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_c770a05b69285ed51a1a4f64621e2c197ae10011\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.1.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.koushikdutta.async-androidasync-2.1.9_18257ebb442f828e2c3638a594362f4bf9dc4a19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d7a6207042a8b30f650c727f71f8c357d27e77">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a350c351dcc43d39b2416751ba8c75ac85d57c45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_2ee2061acd20d9014a4491810ab2afbdb176db78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_35a3f36f147ec41baa734765e6fcfb3255d47ee0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_6ce1239c921ee6ecc6649757f4c32ec8962cd5ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_b3b0ba2026bd72a6738ce8152472e918c973b515\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_8162780b6c15cc4041ed2e7b93b8ab3a88a341ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_3b6d9313f9adbb00cb1b567d7d52a7b46a1678ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_d96728862f389102468f777a974a8e6a851c207a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_3fde6e4b3fcb94948e7367f1991a2c66bf639dbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_a23a653bb3ff760dd5bbcdec63def3472385ccf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_a6350f021db9b603c562f6f33371ff74703fa70b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f266247dc004d8e57dbd9721a6a08d8bc98510c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_6e420a0959ad4b7eb81cfd81a2b5df3935f537db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_6c449a4c6fe50d49f32c446238d1bf502ec701d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_6eb041e8de6a01aea80d924449c642235a5adffd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_87078388cc2390636dce0fa01debff4382643f64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\yassine\Desktop\Rando\Randon-ili\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_53cfb54d805da682f80273ae5a092b742d3742a3\classes.dex" />
+    </item>
+
+</items>

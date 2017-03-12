@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/brick"
+    android:orientation="vertical">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow android:background="@color/brick">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/bus"
+                android:text="Bus confort :"
+                android:textColor="@color/white"></TextView>
+
+
+            <Spinner
+                android:id="@+id/spinner1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.1"
+                android:background="@drawable/spin"
+                android:entries="@array/num"
+                android:paddingBottom="50dp"
+                android:spinnerMode="dropdown"
+
+                >
+
+            </Spinner>
+
+
+            <EditText
+                android:layout_width="150sp"
+                android:layout_height="70sp"
+
+                android:layout_weight="1"
+                android:background="@color/brick"
+                android:hint="En TND"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white" />
+        </TableRow>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dip"
+            android:layout_marginTop="2dp"
+            android:background="#FFFFFFFF"
+            android:scaleX="25" />
+
+        <TableRow android:background="@color/brick">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/food"
+                android:text="Restauration :"
+                android:textColor="@color/white" />
+
+
+            <EditText
+                android:layout_width="150sp"
+                android:layout_height="70sp"
+                android:layout_weight="1"
+                android:background="@color/brick"
+                android:hint="Emplacement"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white" />
+
+
+            <EditText
+                android:layout_width="150sp"
+                android:layout_height="70sp"
+                android:layout_weight="1"
+                android:background="@color/brick"
+                android:hint="En TND"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white" />
+        </TableRow>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dip"
+            android:layout_marginTop="2dp"
+            android:background="#FFFFFFFF"
+            android:scaleX="10" />
+
+        <TableRow android:background="@color/brick">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/house"
+                android:text="Logement :"
+                android:textColor="@color/white" />
+
+
+            <EditText
+                android:layout_width="150sp"
+                android:layout_height="70sp"
+                android:layout_weight="1"
+                android:background="@color/brick"
+                android:hint="Emplacement"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white" />
+
+
+            <EditText
+                android:layout_width="150sp"
+                android:layout_height="70sp"
+
+                android:layout_weight="1"
+                android:background="@color/brick"
+                android:hint="En TND"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white" />
+        </TableRow>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dip"
+            android:layout_marginTop="2dp"
+            android:background="#FFFFFFFF"
+            android:scaleX="10" />
+
+        <TableRow android:background="@color/brick"
+
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/bag"
+                android:text="Equipements :"
+                android:textColor="@color/white" />
+
+
+            <EditText
+                android:layout_width="150sp"
+                android:layout_height="70sp"
+                android:layout_weight="1"
+                android:background="@color/brick"
+                android:hint="choisir vos équipements..., "
+                android:inputType="text|textMultiLine"
+
+                android:textColor="@color/white"
+                android:textColorHint="@color/white" />
+
+
+            <EditText
+                android:layout_width="150sp"
+                android:layout_height="70sp"
+                android:layout_weight="1"
+                android:background="@color/brick"
+                android:hint="Total En TND"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white" />
+        </TableRow>
+    </TableLayout>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="20dp"></View>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:drawableLeft="@drawable/bike"
+                android:text=" Vélo de montagne" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/road"
+                android:text=" Vélo de route" />
+
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/horse"
+                android:text=" Horse" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/quad"
+                android:text=" Quad" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/clihelmet"
+                android:text=" Casque d'escalade" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/hat"
+                android:text=" Chapeau" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/skyy"
+                android:text=" Lunette de ski" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/jumelles"
+                android:text=" Jumelles" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/air"
+                android:text=" Deltaplane" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/sleepbag"
+                android:text=" Sac de couchage" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/mat"
+                android:text=" Tapis" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/baton"
+                android:text=" Batons" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/umbrella"
+                android:text=" Parapluie" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/light"
+                android:text=" Flash light" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/tentt"
+                android:text=" Tente" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/sleepbag"
+                android:text=" Sac de couchage" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/ski"
+                android:text=" Ski" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkMark="@drawable/valid"
+                android:drawableLeft="@drawable/drone"
+                android:text=" Drone equipé de camera" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_weight="2"
+        android:gravity="bottom"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/cancell"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/bmap"
+            android:text="Cancel"></Button>
+
+        <Button
+            android:id="@+id/confirmm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/bmap"
+            android:text="Confirm"></Button>
+    </LinearLayout>
+
+</LinearLayout>
